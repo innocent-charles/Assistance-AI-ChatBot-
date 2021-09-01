@@ -1,0 +1,66 @@
+[
+  {
+    "id": "e81f968d-5f52-44c4-91a0-78bd2841dd27",
+    "data": [
+      {
+        "text": "text me on ",
+        "userDefined": false
+      },
+      {
+        "text": "innocent@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a49cd7e-34c3-4cc0-b847-8e3a63c79691",
+    "data": [
+      {
+        "text": "are you dealing with all kind of the technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa5bfc60-d8e8-4a0e-b010-2d621f474c1e",
+    "data": [
+      {
+        "text": "what you offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa3bb926-3f87-4bc5-a7f1-c4be3a3ce737",
+    "data": [
+      {
+        "text": "i have sent to you guys the message by using this number ",
+        "userDefined": false
+      },
+      {
+        "text": "+2550628483408",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
